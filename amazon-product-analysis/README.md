@@ -1,8 +1,10 @@
 📊 Amazon Product Performance Analysis: Pricing Strategy & Customer Satisfaction
+
 Project Overview
 This project delivers a complete, end-to-end data analysis solution focused on optimizing Amazon's product strategy. The objective was to analyze the relationship between discount pricing, revenue generation, and customer satisfaction across various product categories.
 
 The pipeline spans raw data ingestion, advanced SQL feature engineering for segmentation, rigorous data cleaning (to resolve real-world parsing errors), and the creation of an interactive business dashboard using Tableau.
+
 
 📈 Key Business Findings (Actionable Insights)
 The final dashboard provides clear direction for inventory management and sales strategy, focusing on four core areas:
@@ -31,8 +33,10 @@ Identified several low-rated products (Rating < 3.5) with high discount rates (>
 
 Initiate an immediate SKU review for identified problem stock; consider liquidation or discontinuation to reduce inventory carrying costs and protect brand perception.
 
+
 🛠️ Technical Methodology & Stack
 This analysis demonstrates expertise in data preparation and visualization using industry-standard tools.
+
 
 Data Cleaning
 
@@ -58,8 +62,10 @@ Tableau Desktop/Public
 
 Developed a professional, four-panel dashboard featuring a Dual Axis Combo Chart (Revenue vs. Rating) and Action Filters to enable cross-sheet interactivity.
 
+
 📂 Repository Contents
 The repository is organized into three logical directories mirroring the analysis workflow:
+
 
 /data/
 
